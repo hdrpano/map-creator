@@ -65,7 +65,7 @@ map-creator includes an integrated **Photogrammetry Wizard** that evaluates miss
 
 ### Privacy & connectivity
 
-License activation and elevation requests require an internet connection. Missions are processed locally on your computer.
+Elevation requests require an internet connection. Missions are processed locally on your computer.
 
 ---
 
