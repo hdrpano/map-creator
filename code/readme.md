@@ -19,7 +19,7 @@ This repo also ships small Python scripts that you can reuse or adapt.
 ### Quick start
 
 ```bash
-# generate a mission grid
+# generate a mission grid, spacing (photo distance) and altitude in meters
 mission = generate_grid_mission(
   rows=5,
   cols=5,
@@ -39,7 +39,7 @@ export_kml(
 )
 # export Litchi csv
 export_litchi_csv(mission, "mission_litchi.csv")
-# generate a circle POI mission grid
+# generate a circle POI mission grid, altitude, poi_alt and radius_m in meters, edges number of photos 
 mission = single_circle_poi(
   poi_lat=47.5,
   poi_lon=8.3,
