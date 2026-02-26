@@ -15,17 +15,17 @@ This repo also ships small Python scripts that you can reuse or adapt.
 ```bash
 # generate a mission grid
 mission = generate_grid_mission(
-   rows=5,
-   cols=5,
-   start_lon=8.3,
-   start_lat=47.5,
-   heading=45,
-   pitch=-70,
-   spacing=10,
-   altitude=60,
-   poi_lat=0,
-   poi_lon=0
- )
+  rows=5,
+  cols=5,
+  start_lon=8.3,
+  start_lat=47.5,
+  heading=45,
+  pitch=-70,
+  spacing=10,
+  altitude=60,
+  poi_lat=0,
+  poi_lon=0
+)
 # export kml
 export_kml(
    [[p.lon, p.lat, p.alt] for p in mission],
