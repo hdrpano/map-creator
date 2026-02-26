@@ -152,7 +152,9 @@ Precompiled binaries for **Windows** and **macOS** are published under the **Rel
 
 ## Gaussian Splatting
 
+Learn how to use the map-creator for free Gaussian Splatting
+
 Watch the video:
 [![Watch the video](https://img.youtube.com/vi/xbpYkrBMoUU/maxresdefault.jpg)](https://youtu.be/xbpYkrBMoUU)
 
-Learn how to use the map-creator for free Gaussian Splatting
+
