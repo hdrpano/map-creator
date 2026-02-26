@@ -147,3 +147,8 @@ Precompiled binaries for **Windows** and **macOS** are published under the **Rel
 
 - The **open source Python examples** in this repository are released under the license specified in `LICENSE`.
 - The **map-creator desktop application** distributed via Releases may have separate licensing/terms.
+
+## Gaussian Splatting
+
+Watch the video:
+[![Watch the video](https://img.youtube.com/vi/xbpYkrBMoUU/maxresdefault.jpg)](https://youtu.be/xbpYkrBMoUU)
