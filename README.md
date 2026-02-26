@@ -67,6 +67,9 @@ map-creator includes an integrated **Photogrammetry Wizard** that evaluates miss
 
 Elevation requests require an internet connection. Missions are processed locally on your computer.
 
+Watch the video:
+[![Watch the video](https://img.youtube.com/vi/LUwJ74JaNIQ/maxresdefault.jpg)](https://youtu.be/LUwJ74JaNIQ)
+
 ---
 
 ## Open Source Python project (example missions)
