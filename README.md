@@ -90,7 +90,7 @@ mission = generate_grid_mission(
    altitude=60,
    poi_lat=0,
    poi_lon=0
- )
+)
 # export kml
 export_kml(
    [[p.lon, p.lat, p.alt] for p in mission],
