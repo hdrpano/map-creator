@@ -11,7 +11,7 @@ This repository contains:
 - **map-creator (Desktop App)** — a GUI tool to plan and visualize drone waypoint missions on an interactive map and export DJI-compatible KMZ missions.
 - **Open Source Python examples** — small, readable scripts (grid + POI/orbit) that demonstrate the core math and exports (KML + Litchi CSV).
 
-> If you are here for the compiled desktop app (Windows / macOS), go to **GitHub Releases** of this repository.
+> If you are here for the compiled desktop app (Windows / macOS), go to **[GitHub Releases](https://github.com/hdrpano/map-creator/releases)** of this repository.
 
 ---
 
