@@ -78,14 +78,37 @@ This repo also ships small Python scripts that you can reuse or adapt.
 ### Quick start
 
 ```bash
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
-
-pip install -r requirements.txt
-python map_os2.py
+# generate a mission grid
+mission = generate_grid_mission(
+   rows=5,
+   cols=5,
+   start_lon=8.3,
+   start_lat=47.5,
+   heading=45,
+   pitch=-70,
+   spacing=10,
+   altitude=60,
+   poi_lat=0,
+   poi_lon=0
+ )
+# export kml
+export_kml(
+   [[p.lon, p.lat, p.alt] for p in mission],
+   "mission.kml"
+)
+# export Litchi csv
+export_litchi_csv(mission, "mission_litchi.csv")
+# generate a circle POI mission grid
+mission = single_circle_poi(
+  poi_lat=47.5,
+  poi_lon=8.3,
+  altitude=60,
+  radius_m=25,
+  poi_alt=0,
+  edges=12
+)
+# export Litchi csv
+export_litchi_csv(mission, "orbit.csv")
 ```
 
 ### Outputs
