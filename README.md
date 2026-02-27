@@ -28,6 +28,21 @@ This repository contains:
 - Export missions as **KMZ** files for DJI applications
 - Load **KMZ, KML and CSV** missions
 
+## Feature Comparison
+
+| Feature / Benefit              | Basic Grid Planners | Cloud Mapping Platforms | Enterprise Mission Systems | **Map-Creator** |
+|--------------------------------|---------------------|-------------------------|----------------------------|-----------------|
+| Standard Grid Missions         | ✅                  | ✅                      | ✅                         | ✅              |
+| Polygon Missions               | Limited             | ✅                      | ✅                         | ✅              |
+| Vertical Missions              | ❌                  | Limited                 | ✅                         | ✅              |
+| Helix Missions                 | ❌                  | ❌                      | Limited                    | **✅ Advanced** |
+| Accurate AGL Terrain Following | Basic               | ✅                      | ✅                         | **✅ Precise Control** |
+| DJI Fly / Pilot KMZ Export     | Basic               | Cloud Dependent         | ✅                         | **✅ Direct & Optimized** |
+| Blender / 3D Workflow Ready    | ❌                  | ❌                      | Limited                    | **✅ Integrated Workflow** |
+| Local / Offline Operation      | ✅                  | ❌                      | ✅                         | **✅ Fully Local** |
+| Subscription Required          | No                  | Yes                     | Often                      | **No**          |
+| Ease of Use for Hobby Pilots   | ✅                  | Medium                  | Complex                    | **✅ Balanced & Powerful** |
+
 ### Installation (Windows)
 
 1. Download the **Map-Creator ZIP** from this repository’s **Releases** page.
