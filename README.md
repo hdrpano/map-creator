@@ -30,7 +30,7 @@ This repository contains:
 
 ### Feature Comparison
 
-| Feature / Benefit              | Basic Grid Planners | Cloud Mapping Platforms | Enterprise Mission Systems | **Map-Creator** |
+| Feature / Benefit              | Basic Grid Planners | Cloud Mapping Platforms | Enterprise Mission Systems | 🟢 **Map-Creator** |
 |--------------------------------|---------------------|-------------------------|----------------------------|-----------------|
 | Standard Grid Missions         | ✅                  | ✅                      | ✅                         | ✅              |
 | Polygon Missions               | Limited             | ✅                      | ✅                         | ✅              |
