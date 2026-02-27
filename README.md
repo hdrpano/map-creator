@@ -28,7 +28,7 @@ This repository contains:
 - Export missions as **KMZ** files for DJI applications
 - Load **KMZ, KML and CSV** missions
 
-## Feature Comparison
+### Feature Comparison
 
 | Feature / Benefit              | Basic Grid Planners | Cloud Mapping Platforms | Enterprise Mission Systems | **Map-Creator** |
 |--------------------------------|---------------------|-------------------------|----------------------------|-----------------|
