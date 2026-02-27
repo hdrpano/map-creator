@@ -17,6 +17,8 @@ This repository contains:
 
 ## map-creator (Desktop App)
 
+![map-creator](images/map-creator.png)
+
 **map-creator** is a desktop application for planning and visualizing drone missions directly on an interactive map. It allows you to:
 
 - Draw **polygons** or **circles** on a map
